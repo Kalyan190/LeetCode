@@ -9,9 +9,9 @@ public:
         //second method;
         int start = 0, end = s.size()-1;
         while(start<end){
-             swap(s[start],s[end]);
-             start++;
-             end--;
+             swap(s[start++],s[end--]);
+            //  start++;
+            //  end--;
         }
 
         
