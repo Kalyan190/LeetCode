@@ -9,9 +9,7 @@ public:
         return money;
         else{
             return money - sum;
-        }
-
-        
+        }  
     
     }
 };
