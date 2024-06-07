@@ -29,9 +29,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Kalyan190/LeetCode/tree/master/0274-h-index) |
 | [0876-hand-of-straights](https://github.com/Kalyan190/LeetCode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/Kalyan190/LeetCode/tree/master/1044-find-common-characters) |
 # Sorting
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Kalyan190/LeetCode/tree/master/0274-h-index) |
 | [0876-hand-of-straights](https://github.com/Kalyan190/LeetCode/tree/master/0876-hand-of-straights) |
+# Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Kalyan190/LeetCode/tree/master/0274-h-index) |
