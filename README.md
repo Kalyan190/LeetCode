@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Kalyan190/LeetCode/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/Kalyan190/LeetCode/tree/master/0275-h-index-ii) |
 | [0876-hand-of-straights](https://github.com/Kalyan190/LeetCode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/Kalyan190/LeetCode/tree/master/1044-find-common-characters) |
 # Sorting
@@ -41,3 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Kalyan190/LeetCode/tree/master/0274-h-index) |
+# Binary Search
+|  |
+| ------- |
+| [0275-h-index-ii](https://github.com/Kalyan190/LeetCode/tree/master/0275-h-index-ii) |
