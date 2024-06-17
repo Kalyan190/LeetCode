@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/Kalyan190/LeetCode/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/Kalyan190/LeetCode/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/Kalyan190/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Kalyan190/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -69,10 +70,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0275-h-index-ii](https://github.com/Kalyan190/LeetCode/tree/master/0275-h-index-ii) |
+| [0633-sum-of-square-numbers](https://github.com/Kalyan190/LeetCode/tree/master/0633-sum-of-square-numbers) |
 # Math
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Kalyan190/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/Kalyan190/LeetCode/tree/master/0633-sum-of-square-numbers) |
 # Prefix Sum
 |  |
 | ------- |
