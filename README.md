@@ -155,3 +155,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/Kalyan190/LeetCode/tree/master/1916-find-center-of-star-graph) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Kalyan190/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3373-maximum-prime-difference](https://github.com/Kalyan190/LeetCode/tree/master/3373-maximum-prime-difference) |
+## Math
+|  |
+| ------- |
+| [3373-maximum-prime-difference](https://github.com/Kalyan190/LeetCode/tree/master/3373-maximum-prime-difference) |
+## Number Theory
+|  |
+| ------- |
+| [3373-maximum-prime-difference](https://github.com/Kalyan190/LeetCode/tree/master/3373-maximum-prime-difference) |
+<!---LeetCode Topics End-->
