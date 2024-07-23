@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Kalyan190/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Kalyan190/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Kalyan190/LeetCode/tree/master/1720-crawler-log-folder) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Kalyan190/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/Kalyan190/LeetCode/tree/master/1803-average-waiting-time) |
 | [2502-sort-the-people](https://github.com/Kalyan190/LeetCode/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/Kalyan190/LeetCode/tree/master/2846-robot-collisions) |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kalyan190/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0720-longest-word-in-dictionary](https://github.com/Kalyan190/LeetCode/tree/master/0720-longest-word-in-dictionary) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Kalyan190/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Kalyan190/LeetCode/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
@@ -200,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kalyan190/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0720-longest-word-in-dictionary](https://github.com/Kalyan190/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Kalyan190/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Kalyan190/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Kalyan190/LeetCode/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/Kalyan190/LeetCode/tree/master/2846-robot-collisions) |
 ## Greedy
