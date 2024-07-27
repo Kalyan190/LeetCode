@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/Kalyan190/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kalyan190/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0720-longest-word-in-dictionary](https://github.com/Kalyan190/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Kalyan190/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/Kalyan190/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Kalyan190/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Kalyan190/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/Kalyan190/LeetCode/tree/master/0720-longest-word-in-dictionary) |
@@ -285,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/Kalyan190/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0948-sort-an-array](https://github.com/Kalyan190/LeetCode/tree/master/0948-sort-an-array) |
 ## Graph
 |  |
