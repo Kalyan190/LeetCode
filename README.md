@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1803-average-waiting-time](https://github.com/Kalyan190/LeetCode/tree/master/1803-average-waiting-time) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Kalyan190/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2502-sort-the-people](https://github.com/Kalyan190/LeetCode/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/Kalyan190/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/Kalyan190/LeetCode/tree/master/2846-robot-collisions) |
 | [3373-maximum-prime-difference](https://github.com/Kalyan190/LeetCode/tree/master/3373-maximum-prime-difference) |
 ## Math
@@ -245,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1818-maximum-score-from-removing-substrings](https://github.com/Kalyan190/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Kalyan190/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2502-sort-the-people](https://github.com/Kalyan190/LeetCode/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/Kalyan190/LeetCode/tree/master/2727-number-of-senior-citizens) |
 ## Stack
 |  |
 | ------- |
