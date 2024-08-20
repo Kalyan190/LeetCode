@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-spiral-matrix-iii](https://github.com/Kalyan190/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/Kalyan190/LeetCode/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/Kalyan190/LeetCode/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/Kalyan190/LeetCode/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/Kalyan190/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Kalyan190/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Kalyan190/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/Kalyan190/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0650-2-keys-keyboard](https://github.com/Kalyan190/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Kalyan190/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [1240-stone-game-ii](https://github.com/Kalyan190/LeetCode/tree/master/1240-stone-game-ii) |
 | [3373-maximum-prime-difference](https://github.com/Kalyan190/LeetCode/tree/master/3373-maximum-prime-difference) |
 ## Number Theory
 |  |
@@ -312,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0650-2-keys-keyboard](https://github.com/Kalyan190/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Kalyan190/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1196-filling-bookcase-shelves](https://github.com/Kalyan190/LeetCode/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/Kalyan190/LeetCode/tree/master/1240-stone-game-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Kalyan190/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Kalyan190/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Kalyan190/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -382,4 +385,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Kalyan190/LeetCode/tree/master/0040-combination-sum-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Kalyan190/LeetCode/tree/master/1240-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Kalyan190/LeetCode/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
