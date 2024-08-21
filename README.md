@@ -278,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/Kalyan190/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0299-bulls-and-cows](https://github.com/Kalyan190/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Kalyan190/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
+| [0664-strange-printer](https://github.com/Kalyan190/LeetCode/tree/master/0664-strange-printer) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Kalyan190/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/Kalyan190/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kalyan190/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -312,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Kalyan190/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/Kalyan190/LeetCode/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/Kalyan190/LeetCode/tree/master/0664-strange-printer) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Kalyan190/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1196-filling-bookcase-shelves](https://github.com/Kalyan190/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/Kalyan190/LeetCode/tree/master/1240-stone-game-ii) |
