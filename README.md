@@ -203,10 +203,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0650-2-keys-keyboard](https://github.com/Kalyan190/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Kalyan190/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/Kalyan190/LeetCode/tree/master/1240-stone-game-ii) |
+| [3210-count-beautiful-substrings-i](https://github.com/Kalyan190/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
 | [3373-maximum-prime-difference](https://github.com/Kalyan190/LeetCode/tree/master/3373-maximum-prime-difference) |
 ## Number Theory
 |  |
 | ------- |
+| [3210-count-beautiful-substrings-i](https://github.com/Kalyan190/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
 | [3373-maximum-prime-difference](https://github.com/Kalyan190/LeetCode/tree/master/3373-maximum-prime-difference) |
 ## Hash Table
 |  |
@@ -221,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/Kalyan190/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Kalyan190/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2502-sort-the-people](https://github.com/Kalyan190/LeetCode/tree/master/2502-sort-the-people) |
+| [3210-count-beautiful-substrings-i](https://github.com/Kalyan190/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kalyan190/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3516-design-neighbor-sum-service](https://github.com/Kalyan190/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 | [3519-find-the-number-of-winning-players](https://github.com/Kalyan190/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
@@ -293,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Kalyan190/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2502-sort-the-people](https://github.com/Kalyan190/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Kalyan190/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [3210-count-beautiful-substrings-i](https://github.com/Kalyan190/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kalyan190/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
@@ -395,8 +399,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Kalyan190/LeetCode/tree/master/1240-stone-game-ii) |
+| [3210-count-beautiful-substrings-i](https://github.com/Kalyan190/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
 ## Game Theory
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Kalyan190/LeetCode/tree/master/1240-stone-game-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3210-count-beautiful-substrings-i](https://github.com/Kalyan190/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
 <!---LeetCode Topics End-->
