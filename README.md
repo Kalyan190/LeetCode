@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/Kalyan190/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Kalyan190/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/Kalyan190/LeetCode/tree/master/1803-average-waiting-time) |
+| [2035-count-sub-islands](https://github.com/Kalyan190/LeetCode/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Kalyan190/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Kalyan190/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Kalyan190/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -340,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-spiral-matrix-iii](https://github.com/Kalyan190/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Kalyan190/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Kalyan190/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2035-count-sub-islands](https://github.com/Kalyan190/LeetCode/tree/master/2035-count-sub-islands) |
 | [3516-design-neighbor-sum-service](https://github.com/Kalyan190/LeetCode/tree/master/3516-design-neighbor-sum-service) |
 ## Divide and Conquer
 |  |
@@ -422,8 +424,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kalyan190/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Kalyan190/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [2035-count-sub-islands](https://github.com/Kalyan190/LeetCode/tree/master/2035-count-sub-islands) |
 ## Binary Tree
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kalyan190/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2035-count-sub-islands](https://github.com/Kalyan190/LeetCode/tree/master/2035-count-sub-islands) |
+## Union Find
+|  |
+| ------- |
+| [2035-count-sub-islands](https://github.com/Kalyan190/LeetCode/tree/master/2035-count-sub-islands) |
 <!---LeetCode Topics End-->
