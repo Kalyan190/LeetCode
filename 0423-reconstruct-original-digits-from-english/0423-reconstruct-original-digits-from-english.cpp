@@ -47,6 +47,7 @@ public:
 
         string res = "";
         for(int i = 0; i<10; i++){
+            cout<<"num: "<<nums[i]<<endl;
             while(nums[i]--){
                 res += to_string(i);
             }
