@@ -204,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0423-reconstruct-original-digits-from-english](https://github.com/Kalyan190/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Kalyan190/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/Kalyan190/LeetCode/tree/master/0650-2-keys-keyboard) |
+| [0670-maximum-swap](https://github.com/Kalyan190/LeetCode/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/Kalyan190/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/Kalyan190/LeetCode/tree/master/1240-stone-game-ii) |
 | [3210-count-beautiful-substrings-i](https://github.com/Kalyan190/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
@@ -264,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0134-gas-station](https://github.com/Kalyan190/LeetCode/tree/master/0134-gas-station) |
 | [0624-maximum-distance-in-arrays](https://github.com/Kalyan190/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
+| [0670-maximum-swap](https://github.com/Kalyan190/LeetCode/tree/master/0670-maximum-swap) |
 | [0890-lemonade-change](https://github.com/Kalyan190/LeetCode/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Kalyan190/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Kalyan190/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
