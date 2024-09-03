@@ -4,7 +4,7 @@ public:
         int n = s.size();
         
         string num = "";
-        for(auto ch : s){
+        for(char ch : s){
             num += to_string(ch - 'a' + 1);
         }
         
