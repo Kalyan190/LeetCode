@@ -16,8 +16,8 @@ static bool comp(string &a, string& b){
             s += a;
         }
         int i = 0;
-        while(i<s.size()-1 && s[i] == '0'){
-            i++;
+        if(s[0] == '0'){
+            return "0";
         }
         return s.substr(i,s.size());
     }
