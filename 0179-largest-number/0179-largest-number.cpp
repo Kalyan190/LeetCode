@@ -15,10 +15,10 @@ static bool comp(string &a, string& b){
         for(auto a : v){
             s += a;
         }
-        int i = 0;
+       
         if(s[0] == '0'){
             return "0";
         }
-        return s.substr(i,s.size());
+        return s;
     }
 };
