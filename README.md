@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1923-sentence-similarity-iii](https://github.com/Kalyan190/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Kalyan190/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Kalyan190/LeetCode/tree/master/2035-count-sub-islands) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Kalyan190/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Kalyan190/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Kalyan190/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Kalyan190/LeetCode/tree/master/2155-find-missing-observations) |
@@ -260,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1694-make-sum-divisible-by-p](https://github.com/Kalyan190/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Kalyan190/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kalyan190/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Kalyan190/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Kalyan190/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Kalyan190/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2502-sort-the-people](https://github.com/Kalyan190/LeetCode/tree/master/2502-sort-the-people) |
@@ -456,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Kalyan190/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0948-sort-an-array](https://github.com/Kalyan190/LeetCode/tree/master/0948-sort-an-array) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Kalyan190/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Merge Sort
 |  |
 | ------- |
