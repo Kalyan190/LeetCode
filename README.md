@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/Kalyan190/LeetCode/tree/master/0179-largest-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Kalyan190/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kalyan190/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0436-find-right-interval](https://github.com/Kalyan190/LeetCode/tree/master/0436-find-right-interval) |
 | [0539-minimum-time-difference](https://github.com/Kalyan190/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/Kalyan190/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Kalyan190/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -296,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kalyan190/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0436-find-right-interval](https://github.com/Kalyan190/LeetCode/tree/master/0436-find-right-interval) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Kalyan190/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Kalyan190/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Kalyan190/LeetCode/tree/master/0731-my-calendar-ii) |
@@ -306,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0179-largest-number](https://github.com/Kalyan190/LeetCode/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kalyan190/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0436-find-right-interval](https://github.com/Kalyan190/LeetCode/tree/master/0436-find-right-interval) |
 | [0539-minimum-time-difference](https://github.com/Kalyan190/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Kalyan190/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Kalyan190/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
