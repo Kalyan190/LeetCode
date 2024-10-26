@@ -252,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Kalyan190/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0264-ugly-number-ii](https://github.com/Kalyan190/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0299-bulls-and-cows](https://github.com/Kalyan190/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kalyan190/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -381,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Kalyan190/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0179-largest-number](https://github.com/Kalyan190/LeetCode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Kalyan190/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Kalyan190/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -538,6 +540,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Kalyan190/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/Kalyan190/LeetCode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Kalyan190/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/Kalyan190/LeetCode/tree/master/0658-find-k-closest-elements) |
