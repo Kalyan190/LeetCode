@@ -222,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Kalyan190/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Kalyan190/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2411-spiral-matrix-iv](https://github.com/Kalyan190/LeetCode/tree/master/2411-spiral-matrix-iv) |
+| [2448-count-number-of-bad-pairs](https://github.com/Kalyan190/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Kalyan190/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Kalyan190/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/Kalyan190/LeetCode/tree/master/2502-sort-the-people) |
@@ -256,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/Kalyan190/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/Kalyan190/LeetCode/tree/master/1240-stone-game-ii) |
 | [2155-find-missing-observations](https://github.com/Kalyan190/LeetCode/tree/master/2155-find-missing-observations) |
+| [2448-count-number-of-bad-pairs](https://github.com/Kalyan190/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Kalyan190/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3210-count-beautiful-substrings-i](https://github.com/Kalyan190/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
 | [3373-maximum-prime-difference](https://github.com/Kalyan190/LeetCode/tree/master/3373-maximum-prime-difference) |
@@ -292,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/Kalyan190/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Kalyan190/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Kalyan190/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2448-count-number-of-bad-pairs](https://github.com/Kalyan190/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2502-sort-the-people](https://github.com/Kalyan190/LeetCode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Kalyan190/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Kalyan190/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -570,6 +573,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/Kalyan190/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Kalyan190/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Kalyan190/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2448-count-number-of-bad-pairs](https://github.com/Kalyan190/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Kalyan190/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kalyan190/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3519-find-the-number-of-winning-players](https://github.com/Kalyan190/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
